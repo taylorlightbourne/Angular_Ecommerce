@@ -2,3 +2,5 @@
 
 Recreating a previous react project to Angular, using TypeScript, SASS, and Firebase. 
 
+
+
