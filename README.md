@@ -4,3 +4,4 @@ Recreating a previous react project to Angular, using TypeScript, SASS, and Fire
 
 
 
+# Angular_Ecommerce_Ceramics_Store
